@@ -1,9 +1,10 @@
-# viscode-launcher
+﻿# viscode-launcher
 
-Offizielle **Downloads / Releases** des Vystra Launchers.
+Offizielle **Downloads** des Vystra Launchers (v2.3.2).
 
+- Website / Download: https://stefan2010byte.github.io/viscode-launcher/
 - Releases: https://github.com/Stefan2010byte/viscode-launcher/releases
-- Website: https://vystra.games
-- **Quelltext zum Nachlesen (nicht kommerziell):** https://github.com/Stefan2010byte/vystra-launcher-source
+- **Quelltext nachlesen (nicht kommerziell):** https://github.com/Stefan2010byte/vystra-launcher-source
+- Funktionen: https://stefan2010byte.github.io/viscode-launcher/funktionen.html
 
-Die öffentliche Quelle ist absichtlich beschnitten (kein Vystra-Server, kein eigener Shop), damit du prüfen kannst, dass der Launcher kein Virus ist — ohne dass jemand das Projekt oder den Server nachbauen kann.
+Die öffentliche Quelle ist beschnitten (kein Vystra-Server, kein eigener Shop).
