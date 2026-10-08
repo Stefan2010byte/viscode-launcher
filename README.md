@@ -1,6 +1,6 @@
 ﻿# viscode-launcher
 
-Offizielle **Downloads** des Vystra Launchers (v2.3.3).
+Offizielle **Downloads** des Vystra Launchers (v2.3.2a).
 
 - Website / Download: https://stefan2010byte.github.io/viscode-launcher/
 - Releases: https://github.com/Stefan2010byte/viscode-launcher/releases
